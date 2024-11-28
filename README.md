@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center">Welcome to 4Geeks Academy</h1>
+<h1 align="center">Welcome to 4Geeks Academy, an online bootcamp</h1>
 
 <h3 align="center">&lt;\ Time To Code&gt;</h3>
 <p align="center">The place where developers grow and thrive.</p>
